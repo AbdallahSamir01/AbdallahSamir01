@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="left">Hi, I'm AbdUllah Samir — an AI Engineer from Egypt.<br>I specialize in building intelligent systems and working with machine learning and deep learning technologies.</h1>
 
 ###
@@ -45,6 +43,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPOS6lrr98HYqbDokCp0CA_nJ8YZWHx5siQ&s"  />
 
 ###
